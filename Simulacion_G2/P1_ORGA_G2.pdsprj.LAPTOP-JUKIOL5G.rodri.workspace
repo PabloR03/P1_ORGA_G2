@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <WORKSPACE>
- <FRAME activewindow="1">
+ <FRAME activewindow="0">
   <PLACEMENT>2c00000002000000030000000083ffff0083ffffffffffffffffffff00000000100000005006000068040000</PLACEMENT>
   <WINDOW type="default" module="ISIS"/>
-  <WINDOW type="symbol" module="LIBMAN"/>
  </FRAME>
  <MODULE name="VSMDEBUG">
   <PWI>
