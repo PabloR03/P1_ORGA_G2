@@ -1,0 +1,12 @@
+# Writing all output to: C:\Users\rodri\OneDrive\U\VACAS JUNIO 2024\0964 Organizacion Computacional\Laboratorio\P1_ORGA_G2\Simulacion_G2\FC.log
+set pad_wire_necking on
+bus diagonal
+fanout 5
+route 50
+clean 2
+route 50 16
+clean 2
+filter 5
+recorner diagonal
+status_file
+
